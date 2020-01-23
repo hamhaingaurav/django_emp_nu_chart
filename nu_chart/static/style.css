@@ -1,0 +1,15 @@
+.carousel-control-prev-icon,.carousel-control-next-icon{
+    /*height: 60px;
+    width: 60px;*/
+    outline: black;
+}
+
+.carousel-inner{
+    width: 100%;
+}
+
+.container{
+    margin-top: 50px;
+    width: 100%;
+    align-content: center;
+}
