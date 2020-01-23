@@ -1,5 +1,5 @@
 from django.contrib import admin
-from .models import TableData
+# from .models import TableData
 
 # Register your models here.
-admin.site.register(TableData)
+# admin.site.register(TableData)
