@@ -1,2 +1,7 @@
-nu_chart/static/c3-0.7.10
-nu_chart/static/PapaParse-5.0.2
+/emp_nu_chart/settings.py
+/emp_nu_chart/__pycache__/
+/nu_chart/migrations/
+/nu_chart/__pycache__/
+/nu_chart/static/c3-0.7.10/
+/nu_chart/static/PapaParse-5.0.2/
+db.sqlite3
